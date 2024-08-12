@@ -6,7 +6,7 @@ Soy apasionada de la ciencia de datos y la ingeniería, con un fuerte interés e
 
 🎓 Educación: Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia sede Medellín
 
-💼 Experiencia: Business Intelligence and Data Analytics Intern en Core Analitica
+💼 Experiencia: Business Intelligence and Data Analytics Specialist en Core Analitica
 
 🛠️ Habilidades:
 
