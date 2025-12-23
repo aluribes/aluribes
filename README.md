@@ -4,15 +4,15 @@ Soy apasionada de la ciencia de datos y la ingeniería, con un fuerte interés e
 
 ## Acerca de Mí
 
-🎓 Educación: Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia sede Medellín
+🎓 Educación: Especialista en Analítica e Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia sede Medellín
 
 💼 Experiencia: Business Intelligence and Data Analytics Specialist en Core Analitica
 
 🛠️ Habilidades:
 
-**Programación:** Python, R
+**Programación:** Python, R, SQL
 
-**Herramientas de Visualización:** Looker Studio, Power BI
+**Herramientas de Visualización:** Power BI, Looker Studio
 
 ## Contacto
 
